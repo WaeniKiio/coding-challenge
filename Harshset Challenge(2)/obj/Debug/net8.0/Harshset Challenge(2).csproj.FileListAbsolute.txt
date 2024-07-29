@@ -1,0 +1,4 @@
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Harshset Challenge(2)\obj\Debug\net8.0\Harshset Challenge(2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Harshset Challenge(2)\obj\Debug\net8.0\Harshset Challenge(2).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Harshset Challenge(2)\obj\Debug\net8.0\Harshset Challenge(2).AssemblyInfo.cs
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Harshset Challenge(2)\obj\Debug\net8.0\Harshset Challenge(2).csproj.CoreCompileInputs.cache

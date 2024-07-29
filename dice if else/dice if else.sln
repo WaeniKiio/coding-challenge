@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dice if else", "dice if else.csproj", "{3D103067-790F-4090-9C9E-0D8AC170E85B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D103067-790F-4090-9C9E-0D8AC170E85B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D103067-790F-4090-9C9E-0D8AC170E85B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D103067-790F-4090-9C9E-0D8AC170E85B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D103067-790F-4090-9C9E-0D8AC170E85B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB48A808-5D6B-4E2A-8CE2-4B016BD63C8D}
+	EndGlobalSection
+EndGlobal

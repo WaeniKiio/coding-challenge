@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\bin\Debug\net8.0\if else exercise.exe
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\bin\Debug\net8.0\if else exercise.deps.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\bin\Debug\net8.0\if else exercise.runtimeconfig.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\bin\Debug\net8.0\if else exercise.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\bin\Debug\net8.0\if else exercise.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\if else exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\if else exercise.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\if else exercise.AssemblyInfo.cs
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\if else exercise.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\if else exercise.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\refint\if else exercise.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\if else exercise.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\if else exercise.genruntimeconfig.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\if else exercise\obj\Debug\net8.0\ref\if else exercise.dll

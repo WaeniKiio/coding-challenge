@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\bin\Debug\net8.0\increment and Decrement order.exe
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\bin\Debug\net8.0\increment and Decrement order.deps.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\bin\Debug\net8.0\increment and Decrement order.runtimeconfig.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\bin\Debug\net8.0\increment and Decrement order.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\bin\Debug\net8.0\increment and Decrement order.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\increment and Decrement order.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\increment and Decrement order.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\increment and Decrement order.AssemblyInfo.cs
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\increment and Decrement order.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\increment and Decrement order.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\refint\increment and Decrement order.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\increment and Decrement order.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\increment and Decrement order.genruntimeconfig.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\increment and Decrement order\obj\Debug\net8.0\ref\increment and Decrement order.dll

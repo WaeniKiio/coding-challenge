@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\bin\Debug\net8.0\Array reverse and Sort.exe
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\bin\Debug\net8.0\Array reverse and Sort.deps.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\bin\Debug\net8.0\Array reverse and Sort.runtimeconfig.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\bin\Debug\net8.0\Array reverse and Sort.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\bin\Debug\net8.0\Array reverse and Sort.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\Array reverse and Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\Array reverse and Sort.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\Array reverse and Sort.AssemblyInfo.cs
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\Array reverse and Sort.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\Array reverse and Sort.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\refint\Array reverse and Sort.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\Array reverse and Sort.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\Array reverse and Sort.genruntimeconfig.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\Array reverse and Sort\obj\Debug\net8.0\ref\Array reverse and Sort.dll

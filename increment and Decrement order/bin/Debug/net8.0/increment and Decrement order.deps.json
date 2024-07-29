@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "increment and Decrement order/1.0.0": {
+        "runtime": {
+          "increment and Decrement order.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "increment and Decrement order/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

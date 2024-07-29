@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\bin\Debug\net8.0\dice if else.exe
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\bin\Debug\net8.0\dice if else.deps.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\bin\Debug\net8.0\dice if else.runtimeconfig.json
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\bin\Debug\net8.0\dice if else.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\bin\Debug\net8.0\dice if else.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\dice if else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\dice if else.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\dice if else.AssemblyInfo.cs
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\dice if else.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\dice if else.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\refint\dice if else.dll
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\dice if else.pdb
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\dice if else.genruntimeconfig.cache
+C:\Users\user\Desktop\MyCSharpProjects\coding challenge\dice if else\obj\Debug\net8.0\ref\dice if else.dll
